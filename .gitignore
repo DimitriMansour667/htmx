@@ -1,2 +1,3 @@
 /fastAPI_server/.env
 /fastAPI_server/uploads/*
+/htmx_client/*
